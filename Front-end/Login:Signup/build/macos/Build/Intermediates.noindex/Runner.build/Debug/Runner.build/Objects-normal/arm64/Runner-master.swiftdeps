@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "263468da3372a4c012d5a866ebad17d2e306c04ee2bc94673beea0c7213bc3dd"
+build_start_time: [1685708190, 908485000]
+build_end_time: [1685708194, 244526000]
+inputs:
+  "/Users/pramilakhadka/Developer/Project/Jobseeker/job_seeker/macos/Flutter/GeneratedPluginRegistrant.swift": [1685708185, 150682288]
+  "/Users/pramilakhadka/Developer/Project/Jobseeker/job_seeker/macos/Runner/AppDelegate.swift": [1681949587, 0]
+  "/Users/pramilakhadka/Developer/Project/Jobseeker/job_seeker/macos/Runner/MainFlutterWindow.swift": [1681949587, 0]
