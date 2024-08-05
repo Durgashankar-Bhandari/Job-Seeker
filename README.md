@@ -1,4 +1,24 @@
 # Job-Seeker
+Job-Seeker is a comprehensive platform designed to assist job seekers in finding their ideal job. The platform offers a seamless onboarding process, secure login, password recovery, and OTP verification features.
+
+## Features
+
+- **Onboarding**: A user-friendly onboarding process to get new users started quickly.
+- **Login**: Secure login functionality to ensure user data protection.
+- **Forgot and Reset Password**: Easy password recovery and reset options.
+- **OTP Verification**: Secure OTP verification for additional security.
+
+## Project Overview
+
+This project is part of a Software Engineering course and aims to provide a practical solution for job seekers. The platform is designed with user experience and security in mind.
+
+## Installation
+
+To get started with the Job-Seeker project, follow these steps:
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Durgashankar-Bhandari/Job-Seeker.git
 
 ![onboarding](https://github.com/Durgashankar-Bhandari/Job-Seeker/assets/70682035/68197662-4ef6-4901-9905-f9e8b3967d76)
 
